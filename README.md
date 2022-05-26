@@ -16,5 +16,5 @@ pip install remoteOps
 ```
 Here replace `remoteOps` with the name of whichever directory into which you've cloned this repository. Also ensure that you have QISkit, Jupyter and (optionally) NumPy installed.
 
-To see the tutorial, open Tutorial notebook in `examples/`.
+To see the tutorial, open [Tutorial notebook](https://github.com/EntangledNetworks/remoteOps/blob/main/examples/Tutorial%20-%20Remote%20Operations.ipynb) in located in the `examples` folder.
 
