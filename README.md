@@ -12,7 +12,7 @@ git clone https://github.com/EntangledNetworks/remoteOps.git
  and install with pip:
 
 ```
-pip install remoteOps
+pip install remoteOps/
 ```
 Here replace `remoteOps` with the name of whichever directory into which you've cloned this repository. Also ensure that you have QISkit, Jupyter and (optionally) NumPy installed.
 
